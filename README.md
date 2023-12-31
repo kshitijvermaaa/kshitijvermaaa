@@ -1,6 +1,5 @@
 - 🙋🏻‍♂️Hello, I’m Kshitij Verma -@kshitijvermaaa
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Machine Learning
+
 - 📫 https://www.linkedin.com/in/kshitij-vermaaa/
 
 <!---
